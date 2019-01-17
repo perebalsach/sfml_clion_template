@@ -1,0 +1,5 @@
+/private/var/folders/8d/1x783cvn2_d9mrkm9c7q9vs40000gp/T/AppTranslocation/21FFCA3D-834D-4854-BCCA-C9638370FCD3/d/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/pere/Documents/projects/C++/shrump
+-- Found SFML 2.5.1 in /Library/Frameworks/SFML.framework
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pere/Documents/projects/C++/shrump/cmake-build-debug
