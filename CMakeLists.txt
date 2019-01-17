@@ -1,10 +1,11 @@
 cmake_minimum_required(VERSION 3.10)
-project(shrump)
+# set the projectX name to the name of your project
+project(projectX)
 
 set(CMAKE_CXX_STANDARD 11)
 # set(SOURCE_FILES main.cpp)
 
-add_executable(shrump main.cpp)
+add_executable(projectX main.cpp)
 #add_executable(Game ${SOURCE_FILES})
 
 
