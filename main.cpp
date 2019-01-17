@@ -6,7 +6,7 @@ int main() {
     sf::RenderWindow window(sf::VideoMode(640,480,32),"Hello SFML");
 
     sf::Font font;
-    font.loadFromFile("OpenSans-Bold.ttf");
+    font.loadFromFile("resources/fonts/Pacifico.ttf");
 
     sf::Text text("Hello World",font,11);
     text.setCharacterSize(32);
