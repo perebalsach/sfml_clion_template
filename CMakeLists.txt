@@ -1,8 +1,8 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.14)
 # set the projectX name to the name of your project
 project(projectX)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 20)
 # set(SOURCE_FILES main.cpp)
 
 add_executable(projectX main.cpp)

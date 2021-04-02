@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/projectX.dir/main.cpp.o  -o projectX  /usr/lib/libsfml-system.so /usr/lib/libsfml-window.so /usr/lib/libsfml-graphics.so /usr/lib/libsfml-network.so /usr/lib/libsfml-audio.so 

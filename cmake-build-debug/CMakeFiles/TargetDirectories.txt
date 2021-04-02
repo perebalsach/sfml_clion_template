@@ -1,3 +1,3 @@
-/Users/pere/Documents/projects/C++/shrump/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/pere/Documents/projects/C++/shrump/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/pere/Documents/projects/C++/shrump/cmake-build-debug/CMakeFiles/shrump.dir
+/home/josh/code/sfml_clion_template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/josh/code/sfml_clion_template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/josh/code/sfml_clion_template/cmake-build-debug/CMakeFiles/projectX.dir
