@@ -1,4 +1,4 @@
-#CMake SFML Template 
+# CMake SFML Template 
 
 SFML template project to start developing any app with the C++ framework.
 Tested on windows as for now.
